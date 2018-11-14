@@ -1,0 +1,11 @@
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\bin\Debug\Serial Communication.exe.config
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial Communication.csprojResolveAssemblyReference.cache
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial_Communication.Properties.Resources.resources
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial Communication.csproj.GenerateResource.Cache
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\bin\Debug\Serial Communication.exe
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\bin\Debug\Serial Communication.pdb
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial Communication.exe
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial Communication.pdb
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial_Communication.SerialCommunication.resources
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial_Communication.SenderEmulator.resources
+D:\VS WorkSpace\Serial Communication [Port]\Serial Communication\Serial Communication\obj\Debug\Serial_Communication.MainForm.resources
